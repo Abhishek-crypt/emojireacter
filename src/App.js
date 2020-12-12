@@ -64,7 +64,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Marry Christmas</h1>
+      <h1>Merry Christmas</h1>
       <input
         placeholder="Enter Christmas Emoji Here 🎅"
         onChange={ChangeHandler}
